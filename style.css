@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: linear-gradient(50deg,rgb(160, 141, 141), rgba(0, 0, 0, 0.5)),url(./images/background1.jpg);
+    background: linear-gradient(50deg,rgb(160, 141, 141), rgba(0, 0, 0, 0.5)), url(./images/background1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
